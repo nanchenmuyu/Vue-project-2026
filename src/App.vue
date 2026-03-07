@@ -1,6 +1,6 @@
 <template>
   <div class="wrap">
-    <h2 class="title">购物车</h2>
+    <h2 class="title">24移动互联3-2班 李成龙 购物车</h2>
 
     <!-- 表头 -->
     <div class="table head">
